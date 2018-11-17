@@ -1,6 +1,11 @@
 ## Keras Machine Learning Examples
 
-This project contains code accompanying my blog post on sentiment analysis with Keras.
+This project contains code accompanying my blog post on sentiment analysis with Keras. 
+
+The code is based both on [official keras examples][1] and the book [Deep Learning With Python][2]
+
+[1]: https://github.com/keras-team/keras/tree/master/examples
+[2]: https://www.amazon.com/Deep-Learning-Python-Francois-Chollet/dp/1617294438
 
 ### Contents
 
@@ -30,7 +35,3 @@ While for the model itself, I used the build-in save method:
 to minimize any pressure on servers.
 - Robots.txt files were respected.
 - In deference to the websites, neither scraper nor raw data is included in this project.
-
-#### TODO
-
-- Add saved models and pickles
