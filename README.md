@@ -9,11 +9,13 @@ The code is based both on [official keras examples][1] and the book [Deep Learni
 
 ### Contents
 
-Three examples are contained in this project.
+This project contains:
 
 - a dense model
 - a covnet
 - a GRU model
+
+For sentiment analysis. It also contains code for creating a text-generation model.
 
 The functions folder shows how you might encode files containing your text data and labels for use in
 Keras.
